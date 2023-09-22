@@ -1,0 +1,13 @@
+Jangan lupa bahwa untuk unguided-nya, Anda harus menambahkan script untuk:
+
+Memanggil dataset dari file CSV,
+Mengakses konten data teks SMS,
+Melakukan tokenisasi konten data teks SMS, baik tokenisasi kalimat maupun kata,
+Melakukan normalisasi konten data teks SMS, 
+baik removing stopwords, 
+case conversion,
+ removing unecessary character or symbol, 
+ expanding contraction, 
+ POS tagging, 
+ lemmatization, dan 
+ dependency parsing.. .
